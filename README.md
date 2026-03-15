@@ -23,12 +23,12 @@ A modern, full-stack web application designed for premium wedding vendor managem
 
 ##  Implemented Features
 
-- ** User Signup & Login:** Secure authentication flow using JWT (JSON Web Tokens) and password hashing with bcrypt. Secure, cross-domain HTTP-only cookies are implemented.
-- ** Home Page:** A highly responsive, modern landing page built with custom UI/UX, entirely unique to this project and optimized for all screen sizes.
-- ** Vendor / Service Listing:** A dynamic directory fetching live vendor data (photographers, venues, decor, etc.) directly from the PostgreSQL database.
-- ** Vendor Details Page:** Dedicated dynamic pages for each vendor, showcasing specific business details, pricing, and descriptions.
-- ** Contact / Inquiry Form:** Integrated form allowing logged-in users to send direct inquiries to specific vendors.
-- ** Simple User Dashboard:** A protected route where authenticated users can manage their profile information, view their submitted inquiries, and track their bookings.
+- **User Signup & Login:** Secure authentication flow using JWT (JSON Web Tokens) and password hashing with bcrypt. Secure, cross-domain HTTP-only cookies are implemented.
+- **Home Page:** A highly responsive, modern landing page built with custom UI/UX, entirely unique to this project and optimized for all screen sizes.
+- **Vendor / Service Listing:** A dynamic directory fetching live vendor data (photographers, venues, decor, etc.) directly from the PostgreSQL database.
+- **Vendor Details Page:** Dedicated dynamic pages for each vendor, showcasing specific business details, pricing, and descriptions.
+- **Contact / Inquiry Form:** Integrated form allowing logged-in users to send direct inquiries to specific vendors.
+- **Simple User Dashboard:** A protected route where authenticated users can manage their profile information, view their submitted inquiries, and track their bookings.
 
 ##  Project Architecture & Guidelines Followed
 - **Originality:** The design is conceptually inspired by premium wedding collectives but features a 100% custom UI/UX layout and feature implementation.
