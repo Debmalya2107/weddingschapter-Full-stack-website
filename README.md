@@ -21,6 +21,8 @@ A modern, full-stack web application designed for premium wedding vendor managem
 **Database:**
 - **PostgreSQL** (Relational database hosted via Render)
 
+
+
 ##  Implemented Features
 
 - **User Signup & Login:** Secure authentication flow using JWT (JSON Web Tokens) and password hashing with bcrypt. Secure, cross-domain HTTP-only cookies are implemented.
@@ -34,5 +36,5 @@ A modern, full-stack web application designed for premium wedding vendor managem
 - **Originality:** The design is conceptually inspired by premium wedding collectives but features a 100% custom UI/UX layout and feature implementation.
 - **Clean Code Structure:** Strict separation of concerns. The backend utilizes a modular MVC-style architecture (Routes, Controllers, DB Config), while the frontend uses reusable React components.
 - **Production-Ready Deployment:** Successfully handles CORS configurations and Cross-Site cookie policies between Vercel and Render.
-
+ 
 ---
