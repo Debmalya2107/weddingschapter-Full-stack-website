@@ -5,6 +5,7 @@ A modern, full-stack web application designed for premium wedding vendor managem
 ##  Live Deployment
 - **Frontend (Vercel):** [https://wedding-frontend-flax.vercel.app/](https://wedding-frontend-flax.vercel.app/)
 - **Backend API (Render):** [https://weddings-backend.onrender.com](https://weddings-backend.onrender.com)
+- The backend server is hosted on render free service - you may have to wait for 5 mins after opening backend api.
 
 ##  Tech Stack (Mandatory Requirements Met)
 
